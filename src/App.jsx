@@ -1,4 +1,4 @@
-import BookFinderApp from "./components/BookFinder";
+import BookFinderApp from "./pages/BookFinderApp";
 
 function App() {
 	return (
